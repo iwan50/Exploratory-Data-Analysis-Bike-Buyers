@@ -1,4 +1,4 @@
-## Exploratory-Data-Analysis-Bike
+## Exploratory Data Analysis Bike
 
 This dataset has details of 1000 users from different backgrounds and whether or not they bought a bike. 
 
